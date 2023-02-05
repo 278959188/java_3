@@ -5,6 +5,6 @@ public class Main {
 
         int bonus_miles = price / bonus;
 
-        
+        System.out.println("Количество начисленных миль за билет: " + bonus_miles);
     }
 }
